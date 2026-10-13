@@ -2,43 +2,43 @@
 
 ## Задание №1. 5 примеров по модели OSI 
 Какие 5 ошибок могут случится на разных уровнях модели OSI.
-[text](homework_01)
+[](homework_01)
 
 ## Задание №2. Ethernet in Wireshark
 Фотография Ethernet в Wireshark.
-[text](homework_02)
+[](homework_02)
 
 ## Задание №3. IPv4 и адресация 
 Схема MAC-адреса и схема соединения компьютеров через коммутатор.
-[text](homework_03)
+[](homework_03)
 
 ## Задание №4. Первая работа с Cisco
 Разбиение сети на пять подсетей и выполнение этой настройки в Cisco Packet Tracer.
-[text](homework_04)
+[](homework_04)
 
 ## Задание №5. Схема сети
 Настройка и проверка сети.
-[text](homework_05)
+[](homework_05)
 
 ## Задание №6. Блокировка Cisco в брандмауэре.
-[text](homework_06)
+[](homework_06)
 
 ## Задание №7. Схемы в Cisco
 Создание трёх схем в Cisco Packet Tracer.
-[text](homework_07)
+[](homework_07)
 
 ## Задание №8. Решение задач
 Решение задач по IP-адресации и маскам подсети.
-[text](homework_08)
+[](homework_08)
 
 ## Задание №9. Третья схема
 Настройка третьей схемы через RIP.
-[text](homework_09)
+[](homework_09)
 
 ## Задание №10. Протокол DHCP
 Конспект по презентации протокол DHCP.
-[text](homework_10)
+[](homework_10)
 
 ## Задание №11. Схема настройки NAT
-[text](homework_11)
+[](homework_11)
 
